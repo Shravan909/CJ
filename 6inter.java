@@ -20,7 +20,7 @@ public class Inter  implements I1,I2
   
   public static void main(String[] args)
   {
-    Main obj1 = new Main();
+    Inter obj1 = new Inter();
     obj1.show1();
     obj1.show2();
   }
